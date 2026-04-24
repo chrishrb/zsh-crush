@@ -101,4 +101,4 @@ To get Crush to suggest a command to fulfill a query, type out the query in your
 
 ## 🤩 Credit
 
-This plugin draws from [`stefanheule/zsh-llm-suggestions`](https://github.com/stefanheule/zsh-llm-suggestions)
+This plugin draws from [stefanheule/zsh-llm-suggestions](https://github.com/stefanheule/zsh-llm-suggestions) and [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot).
